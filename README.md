@@ -29,7 +29,7 @@ $ node index.js
 ```
 ## Contributing
 
-Email-me: danielborgesdecarvalho@gmail.com
+Email-me: ali7847khan@gmail.com
 
 Connect with me at [LinkedIn] https://www.linkedin.com/in/malizamankhan/
 
